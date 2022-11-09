@@ -5,7 +5,7 @@
 🔭 Atualmente estou buscando conhecimento para me especializar no desenvolvimento de aplicativos.
 
 💬 Estou em constante busca de aprimorar as habilidades que possuo, e também de poder ajudar outras 
-pessoas da nosso comunidade dev, então se você tiver algum questionamento, faça, que ficarei muito feliz.
+pessoas da nossa comunidade dev, então se você tiver algum questionamento, faça, que ficarei muito feliz.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/richardsonmm/" alt="Linkedin">
