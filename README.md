@@ -2,8 +2,6 @@
 
 > Sou desenvolvedor, 22 anos, graduando em Ciência da Computação.
 
-🔭 Atualmente estou buscando conhecimento para me especializar no desenvolvimento de aplicativos.
-
 💬 Estou em constante busca de aprimorar as habilidades que possuo, e também de poder ajudar outras 
 pessoas da nossa comunidade dev, então se você tiver algum questionamento, faça, que ficarei muito feliz.
 
