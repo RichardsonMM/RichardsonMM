@@ -25,6 +25,3 @@ pessoas da nossa comunidade dev, então se você tiver algum questionamento, fa�
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 
 ---
-
-## ⭐ Informações sobre minha conta GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardsonMM)](https://github.com/anuraghazra/github-readme-stats)
